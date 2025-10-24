@@ -1,0 +1,12 @@
+# Frontend node modules
+node_modules/
+
+# Frontend environment
+.env
+
+# Build outputs
+/build/
+/dist/
+
+# Logs
+npm-debug.log*
